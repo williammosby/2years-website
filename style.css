@@ -1,0 +1,33 @@
+ body {
+        font-family: Arial, sans-serif;
+        background-color: rgb(253, 9, 9);
+    }
+p{
+    font-size: 18px;
+    color: white;
+}
+
+    h1 {
+        color: rgb(250, 250, 250);
+    }
+    h2 {
+        color: rgb(240, 240, 240);
+        text-align: center;
+    }
+    footer{
+        text-align: center;
+        text-size-adjust: 1px;
+        margin-top: 20px;
+        color: white;
+    }
+    li{
+        display: inline;
+        color: white;
+    }
+    controls{
+        align-items: right;
+    }
+    img {
+  width: 800px; /* Sets the width to 200 pixels */
+  height: 1000px; /* Sets the height to 150 pixels */
+}
